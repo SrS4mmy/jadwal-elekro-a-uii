@@ -6,16 +6,19 @@ Untuk memulai program pastikan anda memiliki node.JS.
 
 ```sh
 npm install
+```
 
 Build next js agar website bisa diakses.
 
 ```sh
 npm run build
+```
 
 Jalankan next js (http://localhost:3000).
 
 ```sh
 npm start
+```
 
 ## Local Development
 
