@@ -5,34 +5,34 @@
       {
         "day": 1,
         "lessons": [
-          "BAHASA INGGRIS (A)",
-          "ELEKTRONIKA (A)"
+          "BAHASA INGGRIS (A) (02.14)",
+          "ELEKTRONIKA (A) (03.11)"
         ]
       },
       {
         "day": 2,
         "lessons": [
-          "KOSONG"
+          "PEMROGRAMAN I (A) (02.10)"
         ]
       },
       {
         "day": 3,
         "lessons": [
-          "MATEMATIKA II (A)",
-          "RANGKAIAN LISTRIK II (A)"
+          "MATEMATIKA II (A) (04.12)",
+          "RANGKAIAN LISTRIK II (A) (04.17)"
         ]
       },
       {
         "day": 4,
         "lessons": [
-          "FISIKA II (A)"
+          "FISIKA II (A) (04.17)"
         ]
       },
       {
         "day": 5,
         "lessons": [
-          "ISLAM ULIL ALBAB (AA)",
-          "PEMROGRAMAN I (A)"
+          "ISLAM ULIL ALBAB (AA) (DARING)",
+          "PEMROGRAMAN I (A) (02.10)"
         ]
       }
     ]
